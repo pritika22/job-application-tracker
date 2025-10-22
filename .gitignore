@@ -1,0 +1,13 @@
+# Node
+node_modules/
+
+# Python
+venv/
+backend/venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
